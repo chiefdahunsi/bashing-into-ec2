@@ -13,6 +13,7 @@ After creating this simple script, I couldn’t run it on my laptop cos the Wind
 Below is the script and explanation - 
 
 ——————————————————————————————————————————————
+
 #!/bin/bash
 
 echo "Changing to Directory..."
